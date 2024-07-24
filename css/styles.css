@@ -7,6 +7,13 @@ p {
     text-align: center;
 }
 
+.croissant-photo {
+    max-width: 100%;
+    border-radius: 10px;
+    margin:30px auto;
+    display:block;
+}
+
 footer {
     text-align: center;
 }
